@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # TextUtils-React
 Simple react project where you can work or do operation on text.
 =======
